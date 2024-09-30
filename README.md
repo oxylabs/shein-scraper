@@ -4,7 +4,7 @@
 
 [![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
 
-Oxylabs’ [Shein Scraper](https://oxylabs.io/products/scraper-api/ecommerce/shein?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from an Shein website effortlessly. This brief guide explains how an Shein Scraper works and provides code examples to understand better how you can use it hassle-free.
+Oxylabs’ [Shein Scraper](https://oxylabs.io/products/scraper-api/ecommerce/shein?utm_source=github&utm_medium=repositories&utm_campaign=product) (a part of Web Scraper API) is a data gathering solution allowing you to extract real-time information from an Shein website effortlessly. This brief guide explains how an Shein Scraper works and provides code examples to understand better how you can use it hassle-free.
 
 ### How it works
 
