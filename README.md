@@ -8,7 +8,7 @@ Oxylabs’ [Shein Scraper](https://oxylabs.io/products/scraper-api/ecommerce/she
 
 ### How it works
 
-You can get Shein results by providing your own URLs to our service. We can return the HTML for any Shein page you like.
+You can get Shein results by providing your own URLs to our service. We can return the HTML, parsed JSON, or Markdown output for any Shein page you like.
 
 #### Python code example
 
